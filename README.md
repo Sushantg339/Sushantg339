@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Microservices Architect | Backend Enthusiast**
 
-Welcome to my GitHub! I'm passionate about building scalable systems, crafting elegant solutions, and continuously learning new technologies. I love working with modern tech stacks and creating applications that solve real-world problems.
+Welcome to my GitHub! I'm passionate about building scalable systems, crafting elegant solutions, and continuously learning new technologies. I love working with modern tech stacks and creating applications that make a difference.
 
 ---
 
@@ -20,6 +20,7 @@ Welcome to my GitHub! I'm passionate about building scalable systems, crafting e
 
 ### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -27,6 +28,7 @@ Welcome to my GitHub! I'm passionate about building scalable systems, crafting e
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
